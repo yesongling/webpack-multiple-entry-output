@@ -1,0 +1,17 @@
+$bg-red: red;
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  color: $bg-red;
+}
+
+.root {
+  background-color: #eee;
+  padding: 10px;
+  border: 3px solid #ccc;
+}
